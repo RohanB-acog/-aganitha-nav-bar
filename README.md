@@ -17,7 +17,7 @@ A lightweight, customizable navigation bar component for Next.js applications, b
 Install the package via npm:
 
 ```bash
-npm install @aganithadev/nav-bar
+npm install @aganitha/nav-bar
 ```
 
 Ensure you have the following dependencies installed in your Next.js project:
@@ -34,7 +34,7 @@ Import and use the NavBar component in your Next.js page. Provide the required n
 ```tsx
 "use client";
 
-import { NavBar } from '@aganithadev/nav-bar';
+import { NavBar } from '@aganitha/nav-bar';
 import Link from 'next/link';
 import { ArrowRight } from 'lucide-react';
 
